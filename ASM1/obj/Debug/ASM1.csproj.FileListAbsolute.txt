@@ -1,0 +1,7 @@
+D:\Aptech 2nd semester\.Net C#\CSAssignment1\ASM1\bin\Debug\ASM1.exe.config
+D:\Aptech 2nd semester\.Net C#\CSAssignment1\ASM1\bin\Debug\ASM1.exe
+D:\Aptech 2nd semester\.Net C#\CSAssignment1\ASM1\bin\Debug\ASM1.pdb
+D:\Aptech 2nd semester\.Net C#\CSAssignment1\ASM1\obj\Debug\ASM1.csproj.AssemblyReference.cache
+D:\Aptech 2nd semester\.Net C#\CSAssignment1\ASM1\obj\Debug\ASM1.csproj.CoreCompileInputs.cache
+D:\Aptech 2nd semester\.Net C#\CSAssignment1\ASM1\obj\Debug\ASM1.exe
+D:\Aptech 2nd semester\.Net C#\CSAssignment1\ASM1\obj\Debug\ASM1.pdb
